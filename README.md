@@ -22,6 +22,19 @@ Project Contents
 
 - "Phishing-Email-Analysis.xlsx.xlsx" — workbook containing the phishing analysis, simulated header analysis, and evidence log.
 - "PH-004_Incident-Investigation-Report.docx" — preliminary investigation report based on simulated email-header data.
+- Project Screenshots
+
+1. Phishing Email Analysis
+
+"Phishing Analysis" (Screenshots/phishing-analysis.png)
+
+2. Simulated Email Header Analysis
+
+"Header Analysis" (Screenshots/header-analysis.png)
+
+3. Evidence Log
+
+"Evidence Log" (Screenshots/evidence-log.png)
 
 Investigation Process
 
